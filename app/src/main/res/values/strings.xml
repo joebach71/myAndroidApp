@@ -2,4 +2,7 @@
     <string name="app_name">My First App</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_map">Map</string>
+    <string name="google_maps_key">AIzaSyCuGmPxE3Mj3JIanO6lRAVbik_QguILIzk</string>
 </resources>
